@@ -13,24 +13,6 @@ Within the `model.py` we will carry out a comparative analysis on five prominent
 - Support Vector Machine
 - Naïve Bayes
 
-#### Project Structure
-```
-binary_classification_algorithms/
-│
-├── plots/                        # dir for storing plots
-│
-├── src/                          
-│   ├── components/              
-│   │   ├── evaluate.py           # evaluating the model performance
-│   │   ├── model.py              # five binary classification models
-│   │   └── preprocessing.py      # data preprocessing tasks
-│   └── data/                     
-│       └── data.csv              # dataset
-│
-├── main.py                       # main script to run the project
-├── requirements.txt              # dependencies
-└── README.md                     
-```
 ### Usage
 
 **1. Install dependencies:**
